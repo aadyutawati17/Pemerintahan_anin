@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Struktur Pemerintahan</string>
+    <string-array name="Pemerintahan_anin">
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>DKI Jakarta</item>
+        <item>D I Yogyakarta</item>
+        <item>Kalimantan Tengah</item>
+    </string-array>
+</resources>
